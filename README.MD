@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/n23m3ydi1xw8yrxm?svg=true)](https://ci.appveyor.com/project/TsybulkaAlina/reschedulemeetingdate)
+[![Build status](https://ci.appveyor.com/api/projects/status/va34fsmom78rosln?svg=true)](https://ci.appveyor.com/project/TsybulkaAlina/testmodepatterns2)
